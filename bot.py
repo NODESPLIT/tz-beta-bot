@@ -14,7 +14,7 @@ responses = {
 }
 
 def respond(bot, update):
-	command = update.effective_message['text'].split('/')[1].split(' ')[0]
+	command = update.effective_message['text'].split('/')[1].split(' ')[0].split('@')[0]
 	if command in responses:
 		update.message.reply_text(responses[command])
 
