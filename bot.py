@@ -27,6 +27,7 @@ api_key = "APIKEY"
 responses = {
 	"betanet"		:		"🎉🎉🎉🎉🎉 BETANET HAS LAUNCHED! https://tezosfoundation.ch/news/tezos-betanet-launch/ 🎉🎉🎉🎉🎉",
 	"tothemoon"		:		"ꜩ🚀 -> 🌕 @ 🎉🎉🎉🎉🎉 ANY TIME NOW 🎉🎉🎉🎉🎉",
+	"claim"			:		"\nYou can now claim your Tezos using TezBox: https://tezbox.github.io/\nThis has a GUI for claiming and is a fully featured wallet on betanet!\n\n🚨🚨🚨 If you don't feel safe claiming this early it's probably best to wait for betanet to mature 🚨🚨🚨\n\n1. Click \"Access the Online Wallet\"\n2. Click \"RESTORE TEZBOX\"\n3. Click \"FUNDRAISER WALLET\"\n4. Enter your contribution details and click \"RESTORE TEZBOX\"\n5. If you have zero balances wait for a while for your wallet to sync",
 	"price"			:		price
 }
 
